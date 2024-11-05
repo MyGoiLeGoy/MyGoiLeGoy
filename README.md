@@ -17,27 +17,27 @@
 # Installation
 To install, run the following command: ```dotnet install AceKing ```
 
-## ⚡ The fun stack
+# ⚡ The fun stack ⚡
 
 ![Fun stuff](https://skillicons.dev/icons?i=cs,net,java,python)
 ![My fun stack](https://skillicons.dev/icons?i=html,css,jquery,js,ts,react,vite,vue)
 
 ![Frameworks/Libs](https://skillicons.dev/icons?i=materialui,bootstrap)
 
-### 🖥️ My favorite IDEs 🖥️
+## 🖥️ My favorite IDEs 🖥️
 ![IDE](https://skillicons.dev/icons?i=vscode,visualstudio)
 
-### 💾 My databases 💾
+## 💾 My databases 💾
 
 ![Databases](https://skillicons.dev/icons?i=sqlite,postgres,mysql,mongodb)
 
-### More stuff !
+## More stuff !
 
-#### CI/CD
+### CI/CD
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=jenkins)
 
-#### Cloud services:
+### Cloud services:
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonwebservices) ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-232F3E?style=flat-square&logo=amazonec2) ![Amazon EC2](https://img.shields.io/badge/Amazon%20ECS-232F3E?style=flat-square&logo=amazonecs)
