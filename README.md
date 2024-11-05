@@ -2,9 +2,11 @@
 
 <div align="center">⚜️ <i>The Last Apothecary for your code is coming from France, Haute-Savoy</i> ⚜️</div>
 
-<div> <img src=""/> </div>
+<br/>
 
 <div align="center">
+
+
 
 [![Species](https://img.shields.io/badge/Species-Space_Marine-blue?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens) [![Heraldic](https://img.shields.io/badge/Faction-Loyalist_Emperor's_Children-purple?style=flat-square&logo=banner&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens) 
 [![Status](https://img.shields.io/badge/Status-Staged_in_drop_pod-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
@@ -12,8 +14,10 @@
 
 </div>
 
+# Installation
+To install, run the following command: ```dotnet install AceKing ```
 
-## ⚡ My fun stack
+## ⚡ The fun stack
 
 ![Fun stuff](https://skillicons.dev/icons?i=cs,net,java,python)
 ![My fun stack](https://skillicons.dev/icons?i=html,css,jquery,js,ts,react,vite,vue)
