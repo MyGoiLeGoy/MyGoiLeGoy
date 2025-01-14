@@ -31,7 +31,7 @@ To install, run the following command: ```dotnet install AceKing ```
 
 ## 💾 My databases 💾
 
-![Databases](https://skillicons.dev/icons?i=sqlite,postgres,mysql,mongodb)
+![Databases](https://skillicons.dev/icons?i=sqlserver,sqlite,postgres,mysql,mongodb)
 
 ## More stuff !
 
