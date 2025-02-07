@@ -24,7 +24,7 @@ To install, run the following command: ```dotnet install AceKing ```
 ![Fun stuff](https://skillicons.dev/icons?i=cs,net,java,python)
 ![My fun stack](https://skillicons.dev/icons?i=html,css,jquery,js,ts,react,vite,vue)
 
-![Frameworks/Libs](https://skillicons.dev/icons?i=materialui,bootstrap, tailwind)
+![Frameworks/Libs](https://skillicons.dev/icons?i=materialui,bootstrap,tailwind)
 
 ## 🖥️ My favorite IDEs 🖥️
 ![IDE](https://skillicons.dev/icons?i=vscode,visualstudio)
