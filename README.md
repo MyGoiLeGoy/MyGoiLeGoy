@@ -11,7 +11,6 @@
 [![Species](https://img.shields.io/badge/Species-Space_Marine-blue?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens) [![Heraldic](https://img.shields.io/badge/Faction-Loyalist_Emperor's_Children-purple?style=flat-square&logo=banner&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens) 
 [![Status](https://img.shields.io/badge/Status-Staged_in_drop_pod-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
  [![Science is my jam](https://img.shields.io/badge/My%20Jam-Stairway_To_Daddy_Big_E-black?style=flat-square&logo=applemusic&logoColor=white)](https://warhammer40k.fandom.com/wiki/Emperor_of_Mankind)  ![My next purchase](https://img.shields.io/badge/Next%20Purchase-CSharp_Bolter_50mm_MK_IV-magenta?style=flat-square&logo=amazon)
-[![javascript]](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
 
 
 </div>
